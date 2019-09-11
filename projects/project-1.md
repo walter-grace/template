@@ -2,9 +2,9 @@
 layout: project
 type: project
 published: true
-image: zil.jpg
+image: molly.png
 title: "Kukui Cup"
-permalink: projects/kukuicup
+permalink: projects/molly
 date: 2010
 labels:
   - Python
