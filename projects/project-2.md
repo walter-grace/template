@@ -14,4 +14,4 @@ summary: Scaling on-chain POW blockchains
 
 <img class="ui medium right floated rounded image" src="/images/zil.png">
 
-As I begin my programming journey, I can't help but marvel at the narrative of zcash. Many more projects are in the space which can lead one down many down many rabbit holes. I think as far as baseline of edge technology, ZKP and the many derivatives are a great place to build a foundation around. 
+Sharding is a concept that's widely used in databases, to make them more efficient. A shard is a horizontal portion of a database, with each shard stored in a separate server instance.
