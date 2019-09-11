@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/zcash.jpg
+image: images/zcash.png
 title: "Kukui Cup"
 permalink: projects/kukuicup
 date: 2010
