@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ETHEREUM-ICON_Black_small.png
+image: images/zil.jpg
 title: Micromouse
 permalink: projects/micromouse
 date: 2015-07-01
