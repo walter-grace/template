@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/zil.jpg
 title: Along Came Poly?
-permalink: projects/micromouse
+permalink: projects/zilliqa
 date: 2015-07-01
 labels:
   - Zilliqa
