@@ -12,6 +12,6 @@ labels:
 summary: Scaling on-chain POW blockchains
 ---
 
-<img class="ui medium right floated rounded image" src="/images/zil.png">
+<img class="ui medium right floated rounded image" src="/images/zil.jpg">
 
 Sharding is a concept that's widely used in databases, to make them more efficient. A shard is a horizontal portion of a database, with each shard stored in a separate server instance.
