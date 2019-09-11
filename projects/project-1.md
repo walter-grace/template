@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/zcash-logo.jpg
+image: images/zcash-logo.png
 title: Micromouse
 permalink: projects/micromouse
 date: 2015-07-01
